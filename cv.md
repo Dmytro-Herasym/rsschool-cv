@@ -1,9 +1,9 @@
 # Dmytro Herasym
  
  ## Contacts
-	* Github: Dmytro-Herasym
+	* Github: [Dmytro-Herasym](https://github.com/Dmytro-Herasym)
 	* Discord: Flokki#1319
-	* Telegram: https://t.me/Dmyttrro
+	* Telegram: [@Dmyttrro](https://t.me/Dmyttrro)
  
 > Dima, 22 years old. The goal is to become a frontend developer. To do this, I have all the necessary skills: perseverance.
 > I like working in teams where the traditional approach is valued. I work best if I have clear and detailed instructions, but I also show good results when I am allowed to demonstrate my own ingenuity and competence.
