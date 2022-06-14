@@ -1,1 +1,1 @@
-https://Dmytro-Herasym.github.io/rsschool-cv/
+https://Dmytro-Herasym.github.io
