@@ -83,6 +83,8 @@ body {
   margin: 0 auto;
   width: 1500px;
   overflow: hidden;
+  padding: 10px 0px 0px 0px;
+  /* border: 2px solid #000; */
 }
 .header {
 }
@@ -140,8 +142,11 @@ body {
   font-size: 24px;
   font-weight: 500;
 }
+.contact__links > * {
+	margin: 0px 0px 20px 0px;
+	font-size: 22px;
+}
 .telegram {
-  font-size: 16px;
 }
 .phone {
 }
@@ -169,6 +174,9 @@ a {
 }
 .language {
   font-size: 22px;
+}
+.skill__item > *:not(:last-child) {
+	margin: 10px 0px 20px 0px;
 }
 
 /* -------main------------- */
